@@ -1,13 +1,18 @@
-# GANs_basic
+# GANs 
 
-Scope: Implement an simple GAN model for Image generating
+Scope: Implement simple GAN models for Image generating
 
-Current Status:
-- Succesfully generate an image of 16x16 digits
+Input: 
+- Training on MNIST dataset
 
-To be improved:
-- Train another objects with higher complexity? Color images?
-- Improve the generator/discriminator?
-- ...
+Output:
+- An image with a random digit number
+
+Model:
+- DCGAN
+- VAE-GAN (under construction):
+    - Paper: https://arxiv.org/pdf/1512.09300
+    - Source code: https://github.com/rishabhd786/VAE-GAN-PYTORCH
+
 
 For required environement to run the Notebook, please check file <code>**requirement.txt**</code>
