@@ -17,7 +17,7 @@
     - Reference code: https://github.com/rishabhd786/VAE-GAN-PYTORCH
 
 Architecture of models:
-![VAE-GAN architecture](img\VAE-GAN_architecture.jpg)
+![VAE-GAN architecture](img/VAE-GAN_architecture.jpg)
 
 ## Requirements 
 For required environement to run the Notebook, please check file <code>**requirement.txt**</code>
