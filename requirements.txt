@@ -1,14 +1,5 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: win-64
-argparse=1.4.0
-cudatoolkit=11.2.2
-cudnn=8.1.0.77
-ipykernel=6.29.4
-matplotlib=3.8.4
-numpy=1.26.4
-opencv-python=4.9.0.80
-python=3.9.19
-scikit-learn=1.4.2
-tensorflow=2.10.1
-tqdm=4.66.4
+matplotlib==3.7.2
+numpy==1.24.3
+torch==2.1.2
+torchsummary==1.5.1
+torchvision==0.16.2
